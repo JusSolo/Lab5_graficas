@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/juanluis/Documents/educacion/U/semestres/semestre_10/Graficas/3d_d/target/debug/build/raylib-sys-16ad95f4e9210bcb/out/build/cmake_install.cmake",
+		"/Users/juanluis/Documents/educacion/U/semestres/semestre_10/Graficas/3d_d/target/debug/build/raylib-sys-16ad95f4e9210bcb/out/build/raylib/cmake_install.cmake",
+		"/Users/juanluis/Documents/educacion/U/semestres/semestre_10/Graficas/3d_d/target/debug/build/raylib-sys-16ad95f4e9210bcb/out/build/raylib/external/glfw/cmake_install.cmake",
+		"/Users/juanluis/Documents/educacion/U/semestres/semestre_10/Graficas/3d_d/target/debug/build/raylib-sys-16ad95f4e9210bcb/out/build/raylib/external/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

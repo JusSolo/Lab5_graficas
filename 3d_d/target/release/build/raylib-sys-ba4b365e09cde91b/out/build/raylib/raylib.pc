@@ -1,0 +1,13 @@
+prefix=/Users/juanluis/Documents/educacion/U/semestres/semestre_10/Graficas/3d_d/target/release/build/raylib-sys-ba4b365e09cde91b/out
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: raylib
+Description: A simple and easy-to-use library to enjoy videogames programming
+URL: https://github.com/raysan5/raylib
+Version: 5.5.0
+Libs: -L"${libdir}" -lraylib 
+Libs.private: 
+Requires.private: 
+Cflags: -I"${includedir}"

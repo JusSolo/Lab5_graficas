@@ -1,0 +1,7 @@
+/Users/juanluis/Documents/educacion/U/semestres/semestre_10/Graficas/3d_d/target/release/build/raylib-sys-ba4b365e09cde91b/out/lib/libraylib.a
+/Users/juanluis/Documents/educacion/U/semestres/semestre_10/Graficas/3d_d/target/release/build/raylib-sys-ba4b365e09cde91b/out/include/raylib.h
+/Users/juanluis/Documents/educacion/U/semestres/semestre_10/Graficas/3d_d/target/release/build/raylib-sys-ba4b365e09cde91b/out/include/rlgl.h
+/Users/juanluis/Documents/educacion/U/semestres/semestre_10/Graficas/3d_d/target/release/build/raylib-sys-ba4b365e09cde91b/out/include/raymath.h
+/Users/juanluis/Documents/educacion/U/semestres/semestre_10/Graficas/3d_d/target/release/build/raylib-sys-ba4b365e09cde91b/out/lib/pkgconfig/raylib.pc
+/Users/juanluis/Documents/educacion/U/semestres/semestre_10/Graficas/3d_d/target/release/build/raylib-sys-ba4b365e09cde91b/out/lib/cmake/raylib/raylib-config-version.cmake
+/Users/juanluis/Documents/educacion/U/semestres/semestre_10/Graficas/3d_d/target/release/build/raylib-sys-ba4b365e09cde91b/out/lib/cmake/raylib/raylib-config.cmake
